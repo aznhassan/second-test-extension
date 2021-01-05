@@ -1,6 +1,6 @@
  # This Is A Tutorial
  
- ## Step One
+ ## Step Zero
  
  Place the set background block
 
